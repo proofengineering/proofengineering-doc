@@ -12,3 +12,7 @@ Robert S. Boyer, "A mechanically proof-checked encyclopedia of mathematics: Shou
 > 7. Empirical software engineering has identified a number of "laws" that statistically apply to the development of large software projects. Which of these continue to hold for proofs? Are there new specific correlations that hold for large scale proofs?
 
 Gerwin Klein, "Proof Engineering Considered Essential", FM '14
+
+> For the near future I see the need for more systematic tool support to maintain the growing repositories of formalized mathematics. There is also a need to make proof assistants more accessible to more users, to allow easy browsing and editing of such libraries.
+
+Makarius Wenzel, "Interactive Theorem Provers from the perspective of Isabelle/Isar", In _All about Proofs, Proofs for All_, 2015
