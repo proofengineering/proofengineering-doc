@@ -1,3 +1,6 @@
+Quotes
+======
+
 > The QED project will be a major scientific undertaking requiring the co-operation and effort of hundreds of deep mathematical minds, considerable ingenuity by many computer scientists, and broad support and leadership from research agencies.
 
 Robert S. Boyer, "A mechanically proof-checked encyclopedia of mathematics: Should we build one? Can we?", CADE '94
