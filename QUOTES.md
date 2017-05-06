@@ -28,3 +28,7 @@ Makarius Wenzel, "Interactive Theorem Provers from the perspective of Isabelle/I
 > * Applications using the library. Can we use the proof assistant and its library when modelling and developing and verifying a new product, like a network protocol or the software operating a robot arm?
 
 Herman Geuvers, "Proof assistants: History, ideas and future", In _Sadhana_, 2009
+
+> [I]t will take 140 man-years to create a good basic library for formal mathematics.
+
+Freek Wiedijk, "Estimating the Cost of a Standard Library for a Mathematical Proof Checker"
