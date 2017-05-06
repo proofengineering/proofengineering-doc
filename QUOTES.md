@@ -11,4 +11,4 @@ Robert S. Boyer, "A mechanically proof-checked encyclopedia of mathematics: Shou
 > 6. Are there fundamental aspects of proof library design that are different to software libraries? What are the proof and specification patterns?
 > 7. Empirical software engineering has identified a number of "laws" that statistically apply to the development of large software projects. Which of these continue to hold for proofs? Are there new specific correlations that hold for large scale proofs?
 
-- Gerwin Klein, "Proof Engineering Considered Essential", FM '14
+Gerwin Klein, "Proof Engineering Considered Essential", FM '14
