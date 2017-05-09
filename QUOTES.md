@@ -36,3 +36,7 @@ Freek Wiedijk, "Estimating the Cost of a Standard Library for a Mathematical Pro
 > I now do my mathematics with a proof assistant. I have a lot of wishes in terms of getting this proof assistant to work better, but at least I don't have to go home and worry about having made a mistake in my work. I know that if I did something, I did it, and I don't have to come back to it nor do I have to worry about my arguments being too complicated or about how to convince others that my arguments are correct. I can just trust the computer. There are many people in computer science who are contributing to our program, but most mathematicians still don't believe that it is a good idea. And I think that is very wrong.
 
 Vladimir Voevodsky, "The Origins and Motivations of Univalent Foundations", In IAS Newsletter Summer 2014
+
+> It's all about economics. Given a piece of C code, we can choose to inspect it, to test it by hand, to fuzz it, to subject it to unsound static analysis, and to subject it to sound static analysis. Obviously, all of these validation techniques have merit - the question is how many resources to allocate to each of them. Larger, more rapidly evolving code bases tend to favor cheaper validation methods whereas smaller, security-critical codes are amenable to formal verification. The reach of formal verification techniques is increasing as techniques improve, but also software keeps getting bloatier.
+
+John Regehr, "Comments on a Formal Verification of PolarSSL"
