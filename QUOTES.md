@@ -40,3 +40,7 @@ Vladimir Voevodsky, "The Origins and Motivations of Univalent Foundations", In I
 > It's all about economics. Given a piece of C code, we can choose to inspect it, to test it by hand, to fuzz it, to subject it to unsound static analysis, and to subject it to sound static analysis. Obviously, all of these validation techniques have merit - the question is how many resources to allocate to each of them. Larger, more rapidly evolving code bases tend to favor cheaper validation methods whereas smaller, security-critical codes are amenable to formal verification. The reach of formal verification techniques is increasing as techniques improve, but also software keeps getting bloatier.
 
 John Regehr, "Comments on a Formal Verification of PolarSSL"
+
+> Sooner or later computer proof assistants will become the norm, but the longer this process takes the more misery associated with mistakes and with unnecessary self-verification the practitioners of the field will have to endure.
+
+Vladimir Voevodsky, Univalent Foundations, Lecture at IAS, Princeton. Mar. 26, 2014.
