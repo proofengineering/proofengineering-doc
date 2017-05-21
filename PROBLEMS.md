@@ -11,8 +11,9 @@ Proof Organization and Scalability
 - proofs by reflection vs. proofs by tactics
 - proof languages (Isar, C-zar, ssreflect, ...)
 - tactic languages (Ltac, Ltac2, Rtac, Mtac, ...)
-- specialized proof procedures (SMT/SAT solvers, equational solving)
+- specialized proof procedures (SMT/SAT solvers, equational solving, sledgehammer, ...)
 - domain-specific languages exportable to proof assistants
+- strong specifications of functions using dependent types vs. companion lemmas
 
 Practical Proof Development and Evolution
 -----------------------------------------
@@ -49,3 +50,4 @@ Social and Technological Impact
 - empirical validation of advantages
 - proof assistants as general purpose programming environments
 - proof assistant user training costs
+- alleviating personal doubts about correctness
