@@ -45,9 +45,9 @@ John Regehr, "Comments on a Formal Verification of PolarSSL"
 
 Vladimir Voevodsky, Univalent Foundations, Lecture at IAS, Princeton. Mar. 26, 2014.
 
->  A _formal proof_ is one that has been verified from first principles (generally by computer).
+> Absolutely no technological barriers prevent the formalization of large parts of the mathematical corpus. The issues now are how to make the technology more efficient, cost effective, and user friendly.
 
-Thomas Hales, "Developments in Formal Proofs"
+Thomas C. Hales, "Developments in Formal Proofs"
 
 > As of early 2011, the under-development version of CompCert is the only compiler we have tested for which Csmith cannot find wrong-code errors. This is not for lack of trying: we have devoted about six CPU-years to the task. The apparent unbreakability of CompCert supports a strong argument that developing compiler optimizations within a proof framework, where safety checks are explicit and machine-checked, has tangible benefits for compiler users.
 
