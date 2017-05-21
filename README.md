@@ -7,3 +7,4 @@ Various documentation related to proof engineering.
 - [Quotes](QUOTES.md): collection of proof engineering quotes
 - [Tools](TOOLS.md): list of proof engineering tools
 - [Presentations](PRESENTATIONS.md): collection of slides from presentations related to proof engineering
+- [Problems](PROBLEMS.md): problem area breakdown
