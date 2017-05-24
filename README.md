@@ -8,3 +8,4 @@ Various documentation related to proof engineering.
 - [Tools](TOOLS.md): list of proof engineering tools
 - [Presentations](PRESENTATIONS.md): collection of slides from presentations related to proof engineering
 - [Problems](PROBLEMS.md): problem area breakdown
+- [Software Engineering meets Proof Engineering](SEmPE.md): several projects applying SE techniques to formal proofs
