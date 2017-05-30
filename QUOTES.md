@@ -47,8 +47,20 @@ Vladimir Voevodsky, Univalent Foundations, Lecture at IAS, Princeton. Mar. 26, 2
 
 > Absolutely no technological barriers prevent the formalization of large parts of the mathematical corpus. The issues now are how to make the technology more efficient, cost effective, and user friendly.
 
-Thomas C. Hales, "Developments in Formal Proofs"
+Thomas C. Hales, "Developments in Formal Proofs", CoRR, 2014
 
 > As of early 2011, the under-development version of CompCert is the only compiler we have tested for which Csmith cannot find wrong-code errors. This is not for lack of trying: we have devoted about six CPU-years to the task. The apparent unbreakability of CompCert supports a strong argument that developing compiler optimizations within a proof framework, where safety checks are explicit and machine-checked, has tangible benefits for compiler users.
 
 Yang et al., "Finding and Understanding Bugs in C Compilers", PLDI '11
+
+> [T]here is a lack of belief that [formal methods] scale - that [they are] worthwhile.
+
+Bjoerner and Havelund, "40 Years of Formal Methods", FM '14
+
+> The tool support for formal methods is not sufficient for large scale use of these methods.
+
+Bjoerner and Havelund, "40 Years of Formal Methods", FM '14
+
+> The programming language is becoming your specification language as well.
+
+Bjoerner and Havelund, "40 Years of Formal Methods", FM '14

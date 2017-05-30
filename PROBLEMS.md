@@ -25,11 +25,16 @@ Practical Proof Development and Evolution
 - broken proofs in new proof assistant versions
 - evolution-proof proofs
 - proof repair
-- continuous integration
+- change impact analysis (incl. Ltac)
+- regression proof selection
+- regression proof prioritization
+- continuous integration of verification projects
 - parallel and distributed proving
 - interface responsiveness
 - interface quality-of-life (reference autocompletion, dependency management, ...)
 - interface support for refactorings
+- human resource costs of formalization, verification, and proof maintenance
+- proof reduction (removing redundant definitions and proofs)
 
 Reliability and Trusted Bases
 -----------------------------
@@ -45,7 +50,9 @@ Reliability and Trusted Bases
 - code extraction
 - code compilation, self-hosted compilation
 - metatheory in proof assistant itself and other proof assistants (Coq-in-Coq, NuPrl in Coq, ...)
+- self-hosted proof checking (proof checking via Coq-in-Coq)
 - validating formalizations against real-world implementations and hardware
+- measuring completeness (and minimality) of properties w.r.t. defined functions (e.g., via mutation analysis)
 
 Social and Technological Impact
 -------------------------------
