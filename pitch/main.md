@@ -19,6 +19,6 @@ Despite its increasing importance, proof engineering is seldom considered in its
 
 We survey proof engineering-related research under four headings: (a) proof organization and scalability, (b) practical proof development and and evolution, (c) reliability and trusted bases, (d) technological and social impact.
 
-At a glance, (a) concerns specific languages and methods to obtain and organize proofs, (b) concerns developer practices and tools, (c) concerns foundational issues such as choice of axioms, and (d) covers applications and consequences of proof engineering for mathematics and computer science.
+At a glance, (a) concerns specific languages and methods to express, obtain, and organize proofs, (b) concerns developer practices and tools, (c) concerns foundational issues such as choice of axioms, and (d) covers applications and consequences of proof engineering for mathematics and computer science.
 
 \bibliography{references}
