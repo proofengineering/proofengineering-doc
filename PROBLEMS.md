@@ -1,7 +1,7 @@
 Problems
 ========
 
-This is a list of problem areas and issues that could conceivable be included in a proof engineering survey.
+This is a list of problem areas and issues that could conceivably be included in a proof engineering survey.
 
 Proof Organization and Scalability
 ----------------------------------
@@ -18,6 +18,7 @@ Proof Organization and Scalability
 - domain-specific languages exportable to proof assistants
 - strong specifications of functions using dependent types vs. companion lemmas
 - proving vs. translation validation
+- verification condition generation for domain-specific verification/refinement languages (Fiat, Why3, VeriFast, ...)
 
 Practical Proof Development and Evolution
 -----------------------------------------
@@ -46,15 +47,16 @@ Practical Proof Development and Evolution
 Reliability and Trusted Bases
 -----------------------------
 
-- metatheory, foundations and interpretations (sets, homotopy types, ...)
-- admissible axioms (functional extensionality, classic, JMeq, ...)
+- metatheory, foundations, and interpretations (HOL, sets, homotopy types, ...)
+- admissible axioms (functional extensionality, classic, JMeq, univalence, ...)
 - interface fidelity ("Pollack-inconsistency")
 - extensions (plugins, patches, ...)
 - de Bruijn principle
-- core LOC and bugs
-- independent checker implementations
-- soundness of incremental checking (stale proofs)
-- code extraction
+- core size (LOC)
+- core bugs in practice
+- independent checker implementations (coqchk, ...)
+- soundness of incremental checking (stale proofs, elided proof goals)
+- code extraction from proof assistants to practical functional languages
 - code compilation, self-hosted compilation
 - metatheory in proof assistant itself and other proof assistants (Coq-in-Coq, NuPrl in Coq, ...)
 - self-hosted proof checking (proof checking via Coq-in-Coq)
