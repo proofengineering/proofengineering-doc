@@ -23,7 +23,7 @@ Gill and Runciman (2007; http://doi.acm.org/10.1145/1291201.1291203) proposed a 
 Mutation Analysis for Verification
 ----------------------------------
 
-Groce et al. (2015; http://dx.doi.org/10.1109/ASE.2015.40) use mutation-based analysis approach to improving verification based on model checking. The goal of mutating a formal model is to facilitate better understanding of whether successful verification actually implies a desired property. In addition to mutating the model, verification efforts must also be guided to cover mutated code. According to the authors, no previous work presented passing executions of a source code mutant as a guide to understanding specification weakness.
+Groce et al. (2015; http://dx.doi.org/10.1109/ASE.2015.40) use a mutation-based analysis approach to improving verification based on model checking. The goal of mutating a formal model is to facilitate better understanding of whether successful verification actually implies a desired property. In addition to mutating the model, verification efforts must also be guided to cover mutated code. According to the authors, no previous work presented passing executions of a source code mutant as a guide to understanding specification weakness.
 
 Property-Based Testing in Proof Assistants
 ------------------------------------------
