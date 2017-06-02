@@ -1,6 +1,8 @@
 Problems
 ========
 
+This is a list of problem areas and issues that could conceivable be included in a proof engineering survey.
+
 Proof Organization and Scalability
 ----------------------------------
 
