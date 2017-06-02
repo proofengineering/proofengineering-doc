@@ -6,7 +6,8 @@ Proof Organization and Scalability
 
 - definition/specification languages (Gallina, Isabelle/Pure/HOL)
 - library design
-- structure encodings (type classes, modules, canonical structures, ...)
+- constructs (type classes, modules, canonical structures, ...)
+- encodings of structures (graphs as hypermaps, numbers as Church numerals, ...)
 - proof object management (generation, size, ...)
 - proofs by reflection vs. proofs by tactics
 - proof languages (Isar, C-zar, ssreflect, ...)
@@ -30,11 +31,15 @@ Practical Proof Development and Evolution
 - regression proof prioritization
 - continuous integration of verification projects
 - parallel and distributed proving
+- user interfaces
+- testing of theorem statements (property-based testing)
+- theory exploration (automatically stating and proving properties)
 - interface responsiveness
 - interface quality-of-life (reference autocompletion, dependency management, ...)
 - interface support for refactorings
 - human resource costs of formalization, verification, and proof maintenance
 - proof reduction (removing redundant definitions and proofs)
+- measuring completeness (and minimality) of properties w.r.t. defined inductive types and functions (e.g., via mutation analysis)
 
 Reliability and Trusted Bases
 -----------------------------
@@ -51,8 +56,7 @@ Reliability and Trusted Bases
 - code compilation, self-hosted compilation
 - metatheory in proof assistant itself and other proof assistants (Coq-in-Coq, NuPrl in Coq, ...)
 - self-hosted proof checking (proof checking via Coq-in-Coq)
-- validating formalizations against real-world implementations and hardware
-- measuring completeness (and minimality) of properties w.r.t. defined functions (e.g., via mutation analysis)
+- validating formalizations against real-world implementations and hardware (x86-TSO, ...)
 
 Social and Technological Impact
 -------------------------------
