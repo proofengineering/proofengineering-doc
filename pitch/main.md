@@ -23,11 +23,11 @@ At a glance, (a) concerns specific languages and methods to express, obtain, and
 
 ## Proof Organization and Scalability
 
-We describe specification languages (@Mulligan2014; @Sewell2010), proof languages (@Wenzel2015; @Corbineau2008), tactic languages (@Ziliani2015; @Malecha2016), specialized proof procedures (@Blanchette2016), constructs for organization and reuse (@Gonthier2011; @Sozeau2008), and higher-level frameworks (@Chlipala2013; @Nanevski2008).
+We describe specification languages (@Mulligan2014; @Sewell2010), proof languages (@Wenzel2015; @Corbineau2008), tactic languages (@Ziliani2015; @Malecha2016), specialized proof procedures (@Blanchette2016), proof design principles (@Woos:2016:PCF:2854065.2854081; @Aydemir:2008:EFM:1328438.1328443), constructs for organization and reuse (@Gonthier2011; @Sozeau2008), and higher-level frameworks (@Chlipala2013; @Nanevski2008).
 
 ## Practical Proof Development and Evolution
 
-We consider user interfaces (@Aspinall2000; @Faithfull2016; @Roe2016), interface responsiveness features (@Barras2015; @Wenzel2014), user support features (@Komendantskaya2012; @Heras2013; @Whiteside2011), proof design principles (@Woos:2016:PCF:2854065.2854081; @Aydemir:2008:EFM:1328438.1328443), proof repair and evolution (@Roe2016; @Bobot2013), and proof development project processes and metrics (@Andronick_JKKSZZ_12; @Staples:2013:FSB:2486788.2486978; @Staples:2014:PPE:2652524.2652551).
+We consider user interfaces (@Aspinall2000; @Faithfull2016; @Roe2016), interface responsiveness features (@Barras2015; @Wenzel2014), user support features (@Komendantskaya2012; @Heras2013; @Whiteside2011), proof repair and evolution (@Roe2016; @Bobot2013), and proof development project processes and metrics (@Andronick_JKKSZZ_12; @Staples:2013:FSB:2486788.2486978; @Staples:2014:PPE:2652524.2652551).
 
 ## Reliability and Trusted Bases
 
