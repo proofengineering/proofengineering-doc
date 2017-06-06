@@ -28,7 +28,7 @@ to these problems, and future opprtunitites for research to address underserved 
 
 # Overview
 
-We consider proof engineering in the context of proof assistants that satisfy the _de Bruijn criterion_: 
+We consider proof engineering in the context of proof assistants that satisfy the _de Bruijn criterion_ (@Barendregt2351):
 They produce proof terms that a small proof-checking kernel can verify. That is, we consider proof assistants like
 Coq, Isabelle/HOL, and Agda; we do not consider theorem provers and constraint solvers such as ACL2 and Z3
 except when contributions carry over to these proof assistants. We focus on proof engineering for software verification, 
