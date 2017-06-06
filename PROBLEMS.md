@@ -11,6 +11,7 @@ Proof Organization and Scalability
 - constructs (type classes, modules, canonical structures, ...)
 - encodings of structures (graphs as hypermaps, numbers as Church numerals, ...)
 - proof object management (generation, size, ...)
+- proof design principles (including domain-specific ones) [Talia]
 - proofs by reflection vs. proofs by tactics
 - proof languages (Isar, C-zar, ssreflect, ...)
 - tactic languages (Ltac, Ltac2, Rtac, Mtac, ...)
@@ -27,8 +28,8 @@ Practical Proof Development and Evolution
 - library packaging and versioning
 - opaqueness and proof irrelevance in practice
 - broken proofs in new proof assistant versions
-- evolution-proof proofs
-- proof repair
+- evolution-proof proofs [Talia]
+- proof repair [Talia]
 - change impact analysis (incl. Ltac)
 - regression proof selection
 - regression proof prioritization
