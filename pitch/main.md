@@ -1,5 +1,5 @@
 ---
-title: 'QED at Large: A Survey of Engineering of Machine-Checked Proofs'
+title: 'QED at Large: A Survey of Engineering of Formally Verified Software'
 author: Authors
 ...
 
