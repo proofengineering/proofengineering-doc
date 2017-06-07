@@ -26,7 +26,7 @@ to these problems, and future opprtunitites for research to address underserved 
 
 We consider proof engineering in the context of proof assistants that satisfy the _de Bruijn criterion_ (@Barendregt2351):
 They produce proof terms that a small proof-checking kernel can verify. That is, we consider proof assistants like
-Coq, Isabelle/HOL, and Agda; we do not consider theorem provers and constraint solvers such as ACL2 and Z3
+Coq, Isabelle/HOL, HOL Light, and Agda; we do not consider theorem provers and constraint solvers such as ACL2 and Z3
 except when contributions carry over to these proof assistants. We focus on proof engineering for software verification, 
 but consider contributions from formalized mathematics when relevant.
 
@@ -36,7 +36,7 @@ At a glance, (a) concerns specific languages and methods to express, obtain, and
 
 ## Proof Organization and Scalability
 
-We describe specification languages (@Mulligan2014; @Sewell2010), proof languages (@Wenzel2015; @Corbineau2008), tactic languages (@Ziliani2015; @Malecha2016), specialized tactics and proof procedures (@Braibant2011; @Blanchette2016), proof design principles (@Woos:2016:PCF:2854065.2854081; @Aydemir:2008:EFM:1328438.1328443), modularity and reuse (@Delaware2011; Delaware2013POPL), constructs for organization and reuse (@Gonthier2011; @Sozeau2008), and high-level frameworks (@Chlipala2013; @Nanevski2008).
+We describe specification languages (@Mulligan2014; @Sewell2010), proof languages (@Wenzel2015; @Corbineau2008), tactic languages (@Ziliani2015; @Malecha2016), specialized tactics and proof procedures (@Braibant2011; @Blanchette2016), proof design principles (@Woos:2016:PCF:2854065.2854081; @Aydemir:2008:EFM:1328438.1328443), modularity and reuse (@Delaware2011; @Delaware2013POPL), constructs for organization and reuse (@Gonthier2011; @Sozeau2008), and high-level frameworks (@Chlipala2013; @Nanevski2008).
 
 ## Practical Proof Development and Evolution
 
