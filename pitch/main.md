@@ -47,8 +47,6 @@ We describe case studies in program verification and formalized mathematics (@Ka
 
 # Vision
 
-The paper will be an 80-100 page survey of proof engineering, devoting roughly equal space to each of the four main areas.
-We think that Foundations and Trends in Programming Languages is a good fit for this, as it is devoted to similarly long surveys
-of literature within programming languages, including program verification.
+The paper will be an 80-100 page survey of proof engineering, devoting roughly equal space to each of the four main areas. Based on its editorial aim to publish long surveys of the research literature, we believe that Foundations and Trends in Programming Languages is a good venue for our paper. Among the topics listed in the editorial scope, the paper will primarily pertain to Program Verification and Mechanical Proof Checking, but also touch on Program Logic as well as Type Theory and Type Systems.
 
 \bibliography{references}
