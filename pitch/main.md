@@ -9,16 +9,7 @@ Development of formal, machine-checked proofs of correctness of programs can inc
 
 Projects based on construction of machine-checked proofs are now reaching an unprecedented scale, comparable to that of large software engineering projects. For example, the correctness proofs for an operating system kernel took around 20 person years to develop in the Isabelle/HOL proof assistant, and as of 2014 consisted of 480,000 lines of specifications and proof scripts (@Klein2014micro). 
 
-<!--
-Along similar lines, the proof of the Feit-Thompson odd order theorem in the Coq proof assistant was a six-year effort of a team of 15 people, 
-resulting in 170,000 lines of specifications and proof scripts (@Gonthier2013).
--->
-
 Scaling up leads to new problems and additional demand for tool support in proof development and maintenance. For example, properties to prove may have to be reformulated to facilitate library reuse (@hales-kepler). Proof development environments need to allow users to efficiently write, check, and share proofs (@Faithfull2016); proof repositories need to allow easy search and seamless integration of results into local projects (@Gauthier2015). Evolving projects face the possibility of previous proofs breaking due to seemingly unrelated changes, requiring informed design principles (@Woos:2016:PCF:2854065.2854081) as well as support for quick error detection and repair.
-
-<!--
-, and mathematical structures encoded in specific ways to allow proofs about them to be automated (@Gonthier2008)
--->
 
 We believe that significant, sustained effort by the research community is needed to properly address such _proof engineering_ issues that large projects are subject to. In particular, considerable inspiration can be drawn from previous work in the software engineering community on large-scale development practices and tools (@Klein2014). However, even with close conceptual ties between software and proof construction, research in software engineering requires careful translation to the world of formal proofs. For example, regression testing research can become applicable by considering lemmas and their proofs in place of tests, i.e., for the purpose of _regression proving_; yet, the standard programming language metric used to prioritize regression tests---statement coverage---has no straightforward analogue for lemmas with complex conditions and quantification.
 
@@ -53,5 +44,11 @@ We cover some foundations of proof assistants (@Barendregt2001; @pa-history-geuv
 ## Technological and Social Impact
 
 We describe case studies in program verification and formalized mathematics (@Kaestner2017; @Kumar2014; @Voevodsky2015; @Woos:2016:PCF:2854065.2854081) and how their usefulness can be measured by empirical means (@Bishop2005; @Yang2011), and finally prospects for future impactful research (@plse-coevolve-djg-fose14).
+
+# Vision
+
+The paper will be an 80-100 page survey of proof engineering, devoting roughly equal space to each of the four main areas.
+We think that Foundations and Trends in Programming Languages is a good fit for this, as it is devoted to similarly long surveys
+of literature within programming languages, including program verification.
 
 \bibliography{references}
