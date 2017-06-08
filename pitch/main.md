@@ -15,7 +15,7 @@ We believe that significant, sustained effort by the research community is neede
 
 Despite its increasing importance, proof engineering is seldom considered in its own right; related theories, techniques, and tools span many fields and venues. This survey of the literature is an attempt at a more unified and holistic understanding of proof engineering. 
 We discuss the problems engineers encounter when verifying large systems, existing solutions
-to these problems, and future opprtunitites for research to address underserved problems.
+to these problems, and future opportunitites for research to address underserved problems.
 
 # Overview
 
