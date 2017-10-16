@@ -64,3 +64,11 @@ Bjoerner and Havelund, "40 Years of Formal Methods", FM '14
 > The programming language is becoming your specification language as well.
 
 Bjoerner and Havelund, "40 Years of Formal Methods", FM '14
+
+> In truth, my motivations for the [Flyspeck] project are far more complex than a simple hope of removing residual doubt from the minds of a few referees. Indeed, I see formal methods as fundamental to the long-term growth of mathematics.
+
+Hales, "Introduction to the Flyspeck Project", Dagstuhl Seminar Proceedings 05021
+
+> In the long run, formal verification efforts need better libraries of background mathematics, better means of sharing knowledge between the various proof systems, better automated support, better means of incorporating and verifying computation, better means of storing and searching for background facts, and better interfaces, allowing users to describe mathematical objects and their intended uses, and otherwise convey their mathematical expertise. 
+
+Avigad and Harrison, "Formally verified mathematics", Commun. ACM 57, 4 (April 2014), 66-75.
